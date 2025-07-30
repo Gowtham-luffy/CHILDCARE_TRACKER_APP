@@ -29,3 +29,9 @@ A mobile app designed to help track vaccination schedules, monitor child growth 
 - **User Researcher:** Roshini K, Bighneswar Baral
 - **Programmer:** Hari Priya SM, Roshini K
 - **Technical Analyst:** Bighneswar Baral, Hari Priya SM
+
+
+
+## 📁 Folder Structure
+ 
+- `/docs` – PRD, full documentation, All system design diagrams, Google Form result files
